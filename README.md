@@ -27,8 +27,14 @@ carlos@github:~$ certs
 |---|---|---|---|
 | 🛡️ | Assistente em Segurança da Informação | Senac | set/2026 |
 | 🌐 | Assistente de Operação de Redes de Computadores | Senac | mai/2026 |
-| 🔀 | CCNA: Switching, Routing, and Wireless Essentials | Cisco Networking Academy | badge verificado |
-| 📡 | CCNA: Introduction to Networks | Cisco Networking Academy | badge verificado |
+| 🔀 | CCNA: Switching, Routing, and Wireless Essentials | Cisco Networking Academy | [badge verificado ↗](https://www.credly.com/badges/be7aeea0-ef96-4bca-b3e9-a413aefc8049/public_url) |
+| 📡 | CCNA: Introduction to Networks | Cisco Networking Academy | [badge verificado ↗](https://www.credly.com/badges/8046acc4-cd27-4ffd-b7ff-f21435eb9635/public_url) |
+
+<p align="center">
+  <a href="https://www.credly.com/badges/8046acc4-cd27-4ffd-b7ff-f21435eb9635/public_url"><img src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/linkedin_thumb_CCNAITN__1_.png" width="110" alt="Badge Cisco CCNA: Introduction to Networks" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/be7aeea0-ef96-4bca-b3e9-a413aefc8049/public_url"><img src="https://images.credly.com/images/f4ccdba9-dd65-4349-baad-8f05df116443/linkedin_thumb_CCNASRWE__1_.png" width="110" alt="Badge Cisco CCNA: Switching, Routing, and Wireless Essentials" /></a>
+</p>
 
 ```bash
 carlos@github:~$ skills --todas
@@ -68,6 +74,23 @@ carlos@github:~$ ./mapa-neural --iniciar
 ```
 
 Meu currículo também existe como um **mapa neural 3D navegável**, com terminal interativo, linha do tempo, um CTF escondido e um multiverso onde cada pessoa tem a própria galáxia: [**info.me**](https://github.com/CarlosGabriel-UX/info.me).
+
+```bash
+carlos@github:~$ cat README.en.md
+```
+
+### 🇺🇸 In English
+
+Cybersecurity technical student at **Senac** (São Paulo, Brazil), with two technical qualifications completed (Information Security Assistant and Computer Network Operations Assistant) and the **Cisco CCNA** track in progress. Looking for an internship or first role in **IT Support (L1/L2)** and Systems.
+
+- **Networking:** TCP/IP, subnetting, VLANs, inter-VLAN routing, EtherChannel, STP, DHCP, WLAN
+- **Security:** pfSense firewall, Layer 2 security, information security best practices
+- **Systems & support:** Windows Server, Active Directory, Linux, Python scripting, end-user support
+- **Tools:** Cisco Packet Tracer, Wireshark
+- **Verified badges:** [CCNA: Introduction to Networks](https://www.credly.com/badges/8046acc4-cd27-4ffd-b7ff-f21435eb9635/public_url) · [CCNA: Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/be7aeea0-ef96-4bca-b3e9-a413aefc8049/public_url)
+- **Languages:** Portuguese (native), English (technical reading)
+
+My résumé also lives as an interactive **3D neural map**: [info.me](https://github.com/CarlosGabriel-UX/info.me).
 
 <div align="center">
 
